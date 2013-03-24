@@ -1,3 +1,6 @@
 [submodule "rvm"]
 	path = rvm
 	url = https://github.com/fnichol/chef-rvm.git
+[submodule "chef_gem"]
+	path = chef_gem
+	url = https://github.com/hw-cookbooks/chef_gem.git
